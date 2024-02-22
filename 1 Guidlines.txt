@@ -1,0 +1,8 @@
+1-->|For_yes/no_decision_one_must_have_to_enter_entire_word.
+2-->|For_guest_viewers_enter_"guest"_on_both_id_and_password_to_visit_ASA
+3-->|This_is_a_prototype_so_some_of_the_function_may_not_be_fully_compatible_as_they_are_told_to.
+4-->|There_are_onlu_5_administrators_with_separate_id_and_password.
+5-->|Do_Not_try_to_manipulate_the_source_code_without_owner's_permission.
+6-->|If_one's_device_has_not_the_compatible_compiler_you_may_install_it_from_"others"_folder.
+7-->|Any_use_of_source_code_needs_permission_otherwise_may_be_taken_as_violation_of_copyright_policy.
+8-->|If_given_wrong_password_within_any_execution_program_will_terminate_instantly_for_security_purposes.

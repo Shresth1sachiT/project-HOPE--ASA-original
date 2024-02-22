@@ -1,0 +1,6 @@
+Sachit_Shrestha	12C60001	admin1	Chief_Scientist	
+Sashik_Adhikari	12C60002	admin2	Accountant	
+Shiva_Matalangu	12C60003	admin3	Administrator	
+Satyam_Thapa	12C60004	admin4	IT_Chief	
+Pratik_Ghimire	12C60005	admin5	Chief_Editor	
+Guest	guest	guest	N\A	
