@@ -1,0 +1,58 @@
+Rank		 Name		 Equatorial Radius
+ 1		Jupiter	        1493
+ 2		Saturn		60268
+ 3 		Uranus		25559
+ 4		Neptune		24764
+ 5		Earth		6378.1
+ 6		Venus		6051.8
+ 7		Mars		3396.2
+ 8		Mercury		2439.7
+ 9		Moon		1738.1
+ 10	        Sun	        696001
+
+Rank		 Name		 Mass(kg)
+ 1		Sun		1.9891 x 10^30
+ 2		Jupiter		1.8986 x 10^27
+ 3		Saturn		5.6846 x 10^26
+ 4		Neptune		10.243 x 10^25
+ 5		Uranus		8.6810 x 10^25
+ 6		Earth		5.9736 x 10^24
+ 7		Venus		4.8685 x 10^24
+ 8		Mars		6.4185 x 10^23
+ 9		Mercury		3.3022 x 10^23
+ 10		Moon		7.3490 x 10^22
+
+Rank		Name		Distance from Earth (kilometer)
+ 1		Neptune		4.3059 - 4.6873 x 10^9
+ 2		Uranus		2.5819 - 3.1573 x 10^9
+ 3		Saturn		1.1955 - 1.6585 x 10^9
+ 4		Jupiter		5.885 - 9.681 x 10^8
+ 5		Sun		1.471 - 1.521 x 10^8
+ 6		Mercury		0.773 - 2.219 x 10^8
+ 7		Mars		0.557 - 4.013 x 10^8
+ 8		Venus		0.382 - 2.61 x 10^8
+ 9		Moon		0.378 x 10^6
+
+Rank		Name		Density (kg pr. cubic meter)
+ 1		Earth		5515
+ 2		Mercury		5427
+ 3		Venus		5243
+ 4		Mars		3933
+ 5		Moon		3350
+ 7		Neptune		1638
+ 8		Sun		1408
+ 9		Jupiter		1326
+ 10		Uranus		1270
+ 11		Saturn		687
+
+Rank		Name		Surface Gravity (meter pr. square second)
+ 1		Sun		274
+ 2		Jupiter		24.92
+ 3		Neptune		11.15
+ 4		Saturn		10.44
+ 5		Earth		9.798
+ 6		Uranus		8.87
+ 7		Venus		8.87
+ 8		Mars		3.71
+ 9		Mercury		3.7
+ 10		Moon		1.62
