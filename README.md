@@ -1,0 +1,2 @@
+this was a school task of creating a small project using C language. though it was added not long ago but this project was done years before adding into repository.
+this bunch of program and files are basically to make a small version of our own NAASA purely by C. at the time of creating this project i was just familiarizing with C language so codes and programming approach are unprofessional in this repo
